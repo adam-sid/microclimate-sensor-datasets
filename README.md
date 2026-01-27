@@ -1,1 +1,1 @@
-Note to self: files should be cleaned and simplified before submission
+Note to self: Simplify data and add notes for ease of use by 1 Feb
